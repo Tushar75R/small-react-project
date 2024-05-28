@@ -1,5 +1,5 @@
 ﻿# small-react-project
-# every project has that output in thier folder README.md section 
+# every project has that output in their folder README.md section 
 -> F : in that you are creating button that change background color when you click
         -> use useState and Array.map for creating that
 

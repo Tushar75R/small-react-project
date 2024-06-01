@@ -14,3 +14,4 @@
 
 -> 5Fifth : in that we introduce contex api that is more approprite way to trasfer props in different components, in advance way we use redux and redux toolkit for this props transfer
 
+-> 6sixth : theme switcher 

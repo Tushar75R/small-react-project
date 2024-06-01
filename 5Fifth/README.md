@@ -8,6 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
--- > in this project we use useContex that good way to transfer props in different components in this we use "createContex" and "CreteContex.Provider" that to folder that use to transfer the props
+-- > in this project we use Contex api that good way to transfer props in different components in this we use "createContex" and "CreteContex.Provider" that to folder that use to transfer the props
 
 ![GIF of Project](ViteReact-GoogleChrome2024-05-2915-21-04-ezgif.com-video-to-gif-converter.gif)

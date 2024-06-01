@@ -9,4 +9,4 @@ const UserContexProvider = ({children}) => {
         </UserContex.Provider>
     )
 }
-export default UserContexProvider;
+export default UserContexProvider; 

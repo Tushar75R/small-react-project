@@ -17,3 +17,5 @@
 -> 6sixth : theme switcher 
 
 -> 7Seventh : Todolist  
+
+-> ReduxToolkit : in that also create Todolist but with ReduxToolKit
